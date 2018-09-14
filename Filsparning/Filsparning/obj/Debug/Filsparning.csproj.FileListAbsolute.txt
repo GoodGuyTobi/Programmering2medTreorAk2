@@ -1,0 +1,7 @@
+C:\Users\elev\Google Drive\Programmering\Prog2\Filsparning\Filsparning\bin\Debug\Filsparning.exe.config
+C:\Users\elev\Google Drive\Programmering\Prog2\Filsparning\Filsparning\bin\Debug\Filsparning.exe
+C:\Users\elev\Google Drive\Programmering\Prog2\Filsparning\Filsparning\bin\Debug\Filsparning.pdb
+C:\Users\elev\Google Drive\Programmering\Prog2\Filsparning\Filsparning\obj\Debug\Filsparning.csprojResolveAssemblyReference.cache
+C:\Users\elev\Google Drive\Programmering\Prog2\Filsparning\Filsparning\obj\Debug\Filsparning.csproj.CoreCompileInputs.cache
+C:\Users\elev\Google Drive\Programmering\Prog2\Filsparning\Filsparning\obj\Debug\Filsparning.exe
+C:\Users\elev\Google Drive\Programmering\Prog2\Filsparning\Filsparning\obj\Debug\Filsparning.pdb

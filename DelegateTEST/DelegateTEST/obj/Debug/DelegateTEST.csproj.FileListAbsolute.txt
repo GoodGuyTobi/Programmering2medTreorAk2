@@ -1,0 +1,7 @@
+C:\Users\elev\Desktop\Programmering\Prog2\DelegateTEST\DelegateTEST\bin\Debug\DelegateTEST.exe.config
+C:\Users\elev\Desktop\Programmering\Prog2\DelegateTEST\DelegateTEST\bin\Debug\DelegateTEST.exe
+C:\Users\elev\Desktop\Programmering\Prog2\DelegateTEST\DelegateTEST\bin\Debug\DelegateTEST.pdb
+C:\Users\elev\Desktop\Programmering\Prog2\DelegateTEST\DelegateTEST\obj\Debug\DelegateTEST.csprojResolveAssemblyReference.cache
+C:\Users\elev\Desktop\Programmering\Prog2\DelegateTEST\DelegateTEST\obj\Debug\DelegateTEST.csproj.CoreCompileInputs.cache
+C:\Users\elev\Desktop\Programmering\Prog2\DelegateTEST\DelegateTEST\obj\Debug\DelegateTEST.exe
+C:\Users\elev\Desktop\Programmering\Prog2\DelegateTEST\DelegateTEST\obj\Debug\DelegateTEST.pdb
